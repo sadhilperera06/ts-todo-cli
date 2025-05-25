@@ -30,7 +30,7 @@ A command-line To-Do list application built in **TypeScript**.
 1️⃣ **Clone the repository**
 
 ```bash
-git clone https://github.com/sadhilperera06/Typescript.git
+git clone https://github.com/sadhilperera06/ts-todo-cli.git
 
 cd ts-todo-cli
 ```
